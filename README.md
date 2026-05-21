@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me e-mail:akiprogaming13@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Ronaldo is the GOAT
 
 <!---
 Akiprogaming13/Akiprogaming13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
